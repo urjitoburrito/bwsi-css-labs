@@ -14,4 +14,7 @@ def main():
     print(f"Hello everyone. My name is Urjit Galera and I go to the Bronx High School of Science in New York City. My favorite movie is Ratatouille because I love to cook.")
 if __name__ == "__main__":
     main()
+
+robot_speed = 5 # m/s
+
     
