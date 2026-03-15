@@ -15,6 +15,6 @@ def main():
 if __name__ == "__main__":
     main()
 
-robot_speed = 5 # m/s
+robot_speed = 3 # m/s
 
     
